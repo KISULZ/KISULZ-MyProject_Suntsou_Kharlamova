@@ -1,1 +1,1 @@
-Содержимо1е из feature_merge_conflict1
+Content from feature_merge_conflict1
